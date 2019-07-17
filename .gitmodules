@@ -1,0 +1,3 @@
+[submodule "labs/lab2-matthew-jensen"]
+	path = labs/lab2-matthew-jensen
+	url = git@github.com:wwu-csci-241/lab2-matthew-jensen.git
